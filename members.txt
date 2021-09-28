@@ -2,3 +2,8 @@ Person A:
 Användare på Github: victorodeback
 Namn: Victor Odebäck
 Epost: victor.odeback.9978@student.uu.se
+
+Person B:
+Användare på github: Arvidmor
+Namn: Arvid Morelid
+Epost: arvid.morelid.5203@student.uu.se
